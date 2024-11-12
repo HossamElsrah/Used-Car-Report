@@ -1,12 +1,8 @@
-Here's a sample README description for your Power BI report project on GitHub:
-
----
-
 # Used Car Market Analysis Report
 
 This Power BI project provides an in-depth analysis of the used car market. The report includes interactive visuals and KPIs that reveal insights into car listings based on factors like brand, model, year, mileage, engine capacity, power, and price. This analysis can help users understand market trends, popular brands, and factors influencing used car pricing.
 
-![Used Car Report Screenshot](./path/to/Report.png)
+![Used Car Report Screenshot](https://github.com/HossamElsrah/Used-Car-Report/blob/main/Report.png)
 
 ## Features of the Report
 
@@ -49,6 +45,3 @@ To view this report:
 2. Open the file in Power BI Desktop.
 3. Interact with filters and visualizations to explore different aspects of the used car market.
 
----
-
-Replace `./path/to/Report.png` with the actual path to the screenshot in your repository. Let me know if you need more details in any specific section!
